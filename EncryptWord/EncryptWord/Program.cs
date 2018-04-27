@@ -1,5 +1,5 @@
 ﻿// AUTHOR: Alicia Mauldin
-// FILENAME: encryptWord.cs
+// FILENAME: Program.cs
 // DATE: 27 April 2018
 // REVISION HISTORY: 1.0
 // REFERENCES: None
