@@ -1,0 +1,7 @@
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\bin\Debug\EncryptWord.exe.config
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\bin\Debug\EncryptWord.exe
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\bin\Debug\EncryptWord.pdb
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\obj\Debug\EncryptWord.csprojResolveAssemblyReference.cache
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\obj\Debug\EncryptWord.csproj.CoreCompileInputs.cache
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\obj\Debug\EncryptWord.exe
+C:\Users\aamauldin\source\repos\EncryptWord\EncryptWord\obj\Debug\EncryptWord.pdb
