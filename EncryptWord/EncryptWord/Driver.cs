@@ -12,10 +12,10 @@ using System.Threading.Tasks;
 
 namespace EncryptWord
 {
-    class Driver
+    public class Driver
     {
-        const int MIN_GUESS = 1; // Minimum range for shift guesses
-        const int MAX_GUESS = 10; // Maximum range for shift guesses
+        private const int MIN_GUESS = 1; // Minimum range for shift guesses
+        private const int MAX_GUESS = 10; // Maximum range for shift guesses
 
         // Description: Tests all public functionality of the EncryptWord class
         // Preconditions: None
