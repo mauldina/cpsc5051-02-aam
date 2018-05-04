@@ -1,7 +1,7 @@
 ﻿// AUTHOR: Alicia Mauldin
 // FILENAME: Driver.cs
-// DATE: 27 April 2018
-// REVISION HISTORY: 1.0
+// DATE: 4 May 2018
+// REVISION HISTORY: 1.1
 // REFERENCES: None
 
 using System;
@@ -22,6 +22,7 @@ namespace EncryptWord
         // Postconditions: None
         public void RunTests()
         {
+            Console.WriteLine("Starting tests...");
             Console.WriteLine("TEST 1");
             EncryptWord test1 = new EncryptWord();
             Console.WriteLine("Encrypted word [error]: " 
